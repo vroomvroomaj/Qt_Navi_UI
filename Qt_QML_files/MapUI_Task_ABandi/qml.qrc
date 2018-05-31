@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>images/compass.png</file>
+        <file>images/POI.png</file>
+        <file>images/Overlay.png</file>
+        <file>images/MapBezel.svg</file>
+    </qresource>
+</RCC>
